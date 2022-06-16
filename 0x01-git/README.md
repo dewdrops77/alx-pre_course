@@ -1,2 +1,2 @@
-This is my first git project on alx
-this is my firsg git project on alx
+My first collaboration up_to_date
+
